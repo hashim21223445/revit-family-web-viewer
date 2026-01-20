@@ -28,7 +28,7 @@
     "tslib": "^1.9.2",
     "typescript": "^2.9.2",
     "web-request": "^1.0.7",
-    "webpack": "^3.8.1"
+    "webpack": "^5.0.0"
   },
   "scripts": {
     "webpack": "webpack --config webpack.config.js --progress --colors",
